@@ -1,4 +1,4 @@
-Hi 👋 My name is Yash chaurasia
+Hi 👋 My name is Yash Chaurasia
 ===============================
 
 Competitive Programmer and Full Stack Developer
