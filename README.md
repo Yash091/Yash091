@@ -5,7 +5,7 @@ Competitive Programmer and Full Stack Developer
 -----------------------------------------------
 
 * ✉️  You can contact me at [yvchaurasia11@gmail.com](mailto:yvchaurasia11@gmail.com)
-* ⚡  I am also learning Artificial Intelligence.
+* ⚡  I am also learning Machine Learning and Deep Learning.
 
 ### Skills
 
